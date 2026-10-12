@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186264573628",
+    "project_id": "cruvels-portal",
+    "storage_bucket": "cruvels-portal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186264573628:android:6f60dad3ed7e9cb397a2b9",
+        "android_client_info": {
+          "package_name": "com.example.cruvels_portal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj9SOiRolRr2FHOHZdWKm9pBXPeNOtY40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
